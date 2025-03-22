@@ -15,6 +15,6 @@ I'm Carlos, a developer passionate about technology and creating amazing project
 
 ## GitHub Stats & Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosRodrigoSchimanski&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&bg_color=0a0f1f&title_color=00ff00&icon_color=00ff00" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosRodrigoSchimanski&show_icons=true&hide_title=false&count_private=true&hide=prs&theme=dark&bg_color=0a0f1f&title_color=00ff00&icon_color=00ff00" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRodrigoSchimanski&layout=compact&theme=dark&bg_color=0a0f1f&title_color=00ff00&text_color=00ff00" alt="Top Languages" />
 </div>
